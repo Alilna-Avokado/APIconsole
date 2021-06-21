@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace APIconsole
-{
+namespace TelegramBot
+{ 
     // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse); 
     public class Info
     {
